@@ -1,0 +1,13 @@
+{
+  "header": {
+    "logo": "Sathishkumar.dev",
+    "about": "About"
+  },
+  "footer": {
+    "copyright": "© Sathishkumar 2024",
+    "resume": {
+      "label": "Resume",
+      "url": "https://sathish-repos.github.io/assets/pdfs/resume/resume.pdf"
+    }
+  }
+}

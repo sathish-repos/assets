@@ -8,13 +8,19 @@
       {
         "title": "Todo",
         "description": "Its an todo application with angular frontend and firebase as a backend",
-        "images": ["todo.png", "app-2.webp"],
+        "images": [
+          "https://sathish-repos.github.io/assets/projects/shared-portfolio/sathishkumar/images/todo.png",
+          "https://sathish-repos.github.io/assets/projects/shared-portfolio/sathishkumar/images/app-2.webp"
+        ],
         "url": "https://todo-firebase-123.web.app/"
       },
       {
         "title": "Shuriken",
         "description": "Its an todo application with angular frontend and firebase as a backend",
-        "images": ["todo.png", "app-2.webp"],
+        "images": [
+          "https://sathish-repos.github.io/assets/projects/shared-portfolio/sathishkumar/images/todo.png",
+          "https://sathish-repos.github.io/assets/projects/shared-portfolio/sathishkumar/images/app-2.webp"
+        ],
         "url": "https://todo-firebase-123.web.app/"
       }
     ]

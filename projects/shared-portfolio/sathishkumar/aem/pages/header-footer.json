@@ -1,0 +1,16 @@
+{
+  "header": [
+    {
+      "label": "Sathishkumar.dev",
+      "link": "/"
+    },
+    {
+      "label": "About",
+      "link": "/about"
+    }
+  ],
+  "footer": {
+    "copyrights": "&copy; sathishkumar.dev 2024",
+    "version": "ver: 1.0.0"
+  }
+}

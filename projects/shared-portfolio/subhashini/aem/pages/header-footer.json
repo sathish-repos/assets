@@ -1,0 +1,16 @@
+{
+  "header": [
+    {
+      "label": "Subhashini.dev",
+      "link": "/"
+    },
+    {
+      "label": "About",
+      "link": "/about"
+    }
+  ],
+  "footer": {
+    "copyrights": "&copy; Subhashini.dev 2024",
+    "version": "ver: 1.0.0"
+  }
+}

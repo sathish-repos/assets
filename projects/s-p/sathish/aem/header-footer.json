@@ -1,0 +1,23 @@
+{
+  "header": {
+    "logo": "Sathishkumar.dev",
+    "about": "About"
+  },
+  "footer": {
+    "copyright": "Sathishkumar.dev 2024.",
+    "socialMedia": [
+      {
+        "icon": "bi-github",
+        "url": "https://github.com/sathish-repos"
+      },
+      {
+        "icon": "bi-linkedin",
+        "url": "https://www.linkedin.com/in/sathishkumardev/"
+      },
+      {
+        "icon": "bi-discord",
+        "url": "https://discordapp.com/users/1144472704586629140"
+      }
+    ]
+  }
+}

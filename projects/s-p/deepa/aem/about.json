@@ -1,0 +1,110 @@
+{
+  "contact": {
+    "title": "Contacts",
+    "description": "Feel free to reach out for projects, collaborations, or just to say hello! Currently seeking new opportunities.",
+    "phone": {
+      "label": "Ph No.: 6380891338 <a href=\"tel:+916380891338\"><i class=\"bi bi-phone link-dark\"></i></a>",
+      "value": "6380891338"
+    },
+    "email": {
+      "label": "me.sathish.git@gmail.com <i class=\"bi bi-copy\" [cdkCopyToClipboard]=\"me.sathish.git@gmail.com\"></i>",
+      "value": "me.sathish.git@gmail.com"
+    }
+  },
+  "discipline": {
+    "title": "Disciplines",
+    "disciplines": [
+      "Angular",
+      "RxJs",
+      "NgRX",
+      "Bootstrap",
+      "Figma",
+      "PostMan",
+      "Firebase",
+      "Github",
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ]
+  },
+  "education": {
+    "title": "Education",
+    "studies": [
+      {
+        "school": "College",
+        "study": "B.E Computer Science and Engg.",
+        "from": "From: TCET",
+        "year": "2017-2021",
+        "score": "75.6%"
+      },
+      {
+        "school": "Higher Sec School",
+        "from": "From: Govt. Hrs School",
+        "year": "2015-2017",
+        "score": "87.25%"
+      },
+      {
+        "school": "High School",
+        "from": "From: Govt. High School",
+        "year": "2014-2015",
+        "score": "76.6%"
+      }
+    ]
+  },
+  "experience": {
+    "title": "Work Experiences",
+    "works": [
+      {
+        "title": "System Engineer",
+        "place": "&#64;TCS - Tata Consultancy Service",
+        "year": "May 2022 - Nov 2024",
+        "id": "tcs",
+        "project": {
+          "title": "Delta Airlines",
+          "descriptions": [
+            "Worked-on the development of a feature-rich e-commerce platform, enhancing user experience and increasing conversion rates by 20%.",
+            "Collaborated on a cross-functional team to integrate multiple micro front-ends into a cohesive enterprise application, streamlining workflow efficiency."
+          ]
+        }
+      },
+      {
+        "title": "Associate Consultant / B1",
+        "place": "&#64;Capgemini",
+        "year": "Dec 2024 - Present",
+        "id": "cg",
+        "project": {
+          "title": "Tata Communications",
+          "descriptions": [
+            "needs to be changed",
+            "Collaborated on a cross-functional team to integrate multiple micro front-ends into a cohesive enterprise application, streamlining workflow efficiency."
+          ]
+        }
+      }
+    ],
+    "toggleButtonLabel": "Worked On"
+  },
+  "intro": {
+    "title": "Software Developer (Angular & Frontend Technologies)",
+    "subTitle": "2+ Years of Experience"
+  },
+  "selfIntro": {
+    "intro": "Proficient in crafting dynamic and responsive user interfaces using Angular with state management via <b>NgRx</b>, adept at reactive programming with <b>RxJS</b>. Skilled in utilizing Bootstrap for layout and design, while ensuring semantic and accessible HTML, along with efficient and scalable CSS.",
+    "items": [
+      {
+        "title": "Frontend",
+        "id": "Frontend",
+        "subTitle": "Angular is a front-end web application framework developed by Google. It allows developers to create dynamic, single-page applications (SPAs) using TypeScript, a superset of JavaScript."
+      },
+      {
+        "title": "Version Control",
+        "id": "Version-Control",
+        "subTitle": "Strong JavaScript and TypeScript development skills, with experience in integrating designs from Figma into functional applications. Proficient in API testing and collaboration using Postman, with solid version control practices using <b>Git, GitHub, and GitLab</b>."
+      },
+      {
+        "title": "What I Value",
+        "id": "What-I-Value",
+        "subTitle": "I foster open communication and teamwork, leveraging my technical proficiency in design tools and front-end development to challenges and learn continuously. I prioritize culture alongside product, believing a <b>supportive and collaborative environment</b> is key to success. I excel at tackling diverse design challenges and pushing boundaries. Always learning, I seek new experiences to improve."
+      }
+    ]
+  }
+}

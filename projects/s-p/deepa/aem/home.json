@@ -1,0 +1,56 @@
+{
+  "hero": {
+    "name": "Deepa",
+    "message": "Front-end Developer. Repo Architect. UI. System Design & More.",
+    "resume": {
+      "label": "Resume",
+      "url": "https://sathish-repos.github.io/assets/pdfs/resume/resume.pdf"
+    },
+    "projects": {
+      "label": "Go to Projects",
+      "url": "#projects"
+    }
+  },
+  "projects": {
+    "title": "Projects",
+    "description": "Some of the projects that i have been working on.",
+    "projects": [
+      {
+        "name": "Shuriken",
+        "image": "projects/shuriken.png",
+        "url": "https://shuriken-omega.vercel.app/",
+        "description": "This app provides an engaging platform for fans of the Naruto series to explore characters and their details."
+      },
+      {
+        "name": "Pick Me A Theme",
+        "image": "projects/pickmeatheme.png",
+        "url": "https://pickmeatheme.xyz/",
+        "description": "\"Pick Me A Theme\" is an innovative application designed to help users create personalized color themes for various projects"
+      },
+      {
+        "name": "Todo Firebase",
+        "image": "projects/todo-firebase.png",
+        "url": "https://todo-firebase-123.web.app/",
+        "description": "Todo Application is a task management tool built using Firebase for backend services."
+      },
+      {
+        "name": "Portfolio 2",
+        "image": "projects/sathish-code.png",
+        "url": "https://sathish-code.web.app/",
+        "description": "This portfolio website is a personal showcase designed to highlight an individual's skills, projects, and professional experiences. It serves as an online resume and creative outlet."
+      },
+      {
+        "name": "Random Dogs",
+        "image": "projects/randomova.png",
+        "url": "https://ssr-test-dog.vercel.app/",
+        "description": "This application designed to calm users, the core functionality would likely revolve around features aimed at reducing stress and anxiety."
+      },
+      {
+        "name": "Book store",
+        "image": "projects/book-store.png",
+        "url": "https://showcase-apps-plum.vercel.app/",
+        "description": "Bookstore app is designed to provide users with a convenient and engaging platform for discovering, purchasing, and enjoying books."
+      }
+    ]
+  }
+}
